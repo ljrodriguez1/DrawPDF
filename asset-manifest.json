@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/DrawPDF/static/css/main.230abce1.chunk.css",
-    "main.js": "/DrawPDF/static/js/main.0df63022.chunk.js",
-    "main.js.map": "/DrawPDF/static/js/main.0df63022.chunk.js.map",
+    "main.js": "/DrawPDF/static/js/main.5177fb70.chunk.js",
+    "main.js.map": "/DrawPDF/static/js/main.5177fb70.chunk.js.map",
     "runtime-main.js": "/DrawPDF/static/js/runtime-main.fdb91a99.js",
     "runtime-main.js.map": "/DrawPDF/static/js/runtime-main.fdb91a99.js.map",
     "static/js/2.bc3e0e99.chunk.js": "/DrawPDF/static/js/2.bc3e0e99.chunk.js",
     "static/js/2.bc3e0e99.chunk.js.map": "/DrawPDF/static/js/2.bc3e0e99.chunk.js.map",
     "index.html": "/DrawPDF/index.html",
-    "precache-manifest.8c4d497b08259776a8be8fac467ede34.js": "/DrawPDF/precache-manifest.8c4d497b08259776a8be8fac467ede34.js",
+    "precache-manifest.9b5907ceedba12ba3292ebd62aa619d0.js": "/DrawPDF/precache-manifest.9b5907ceedba12ba3292ebd62aa619d0.js",
     "service-worker.js": "/DrawPDF/service-worker.js",
     "static/css/main.230abce1.chunk.css.map": "/DrawPDF/static/css/main.230abce1.chunk.css.map",
     "static/js/2.bc3e0e99.chunk.js.LICENSE.txt": "/DrawPDF/static/js/2.bc3e0e99.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.fdb91a99.js",
     "static/js/2.bc3e0e99.chunk.js",
     "static/css/main.230abce1.chunk.css",
-    "static/js/main.0df63022.chunk.js"
+    "static/js/main.5177fb70.chunk.js"
   ]
 }
