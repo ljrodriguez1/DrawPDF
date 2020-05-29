@@ -79,6 +79,9 @@ class DrawArea extends React.Component {
           onMouseDown={this.handleMouseDown.bind(this)}
           onMouseUp={this.handleMouseUp.bind(this)}
           onMouseMove={this.handleMouseMove.bind(this)}
+          onTouchDown={this.handleMouseDown.bind(this)}
+          onTouchUp={this.handleMouseUp.bind(this)}
+          onTouchMove={this.handleMouseMove.bind(this)}
          >
           <image x={0} y={0} xlinkHref={_url} height={480} width={600} />
           {
