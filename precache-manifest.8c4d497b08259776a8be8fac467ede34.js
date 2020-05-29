@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7ca598a473c247a36aebd343110d13ca",
+    "revision": "1c5599b06d69abd27b484f411fdc97db",
     "url": "/DrawPDF/index.html"
   },
   {
-    "revision": "7da7f35be190a3f1d858",
+    "revision": "f2f798b99e82feac7e78",
     "url": "/DrawPDF/static/css/main.230abce1.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DrawPDF/static/js/2.bc3e0e99.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7da7f35be190a3f1d858",
-    "url": "/DrawPDF/static/js/main.5f097227.chunk.js"
+    "revision": "f2f798b99e82feac7e78",
+    "url": "/DrawPDF/static/js/main.0df63022.chunk.js"
   },
   {
     "revision": "3e20a0980690a5fc56ae",
