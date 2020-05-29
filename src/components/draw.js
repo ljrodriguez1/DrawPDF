@@ -44,6 +44,7 @@ class DrawArea extends React.Component {
         activePath.push({ x, y });
         this.setState({ paths });
       } else {
+        e.preventDefault();
         const x = e.touches[0].clientX - this.state.left;
         const y = e.touches[0].clientY - this.state.top;
         const paths = this.state.paths.slice(0);
